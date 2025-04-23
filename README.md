@@ -63,11 +63,11 @@ Delete a movie: Click the delete button to remove the movie from the database.
 
 View the movie list: The application will display a list of all the movies registered in the database.
 
-🌐 Live Demo
+## 🌐 Live Demo
 Experience the live version of the website here:
 http://we-crud-peliculas.infinityfreeapp.com/
 
-✍️ Author
+## ✍️ Author
 Diego López – @dialoma
 
 # 🇪🇸 Versión en Español
@@ -129,9 +129,9 @@ Eliminar una película: Haz clic en el botón de eliminar para quitarla de la ba
 
 Ver listado de películas: La aplicación mostrará todas las películas registradas.
 
-🌐 Demo en Vivo
+## 🌐 Demo en Vivo
 Puedes ver la versión en línea del sitio aquí:
 http://we-crud-peliculas.infinityfreeapp.com/
 
-✍️ Autor
+## ✍️ Autor
 Diego López – @dialoma
